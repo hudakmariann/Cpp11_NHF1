@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697369971 source:/home/hudakmariann/BME/CPP11/NHF1/String_NHF/test.cpp
+	<iostream>
+	"mystring.h"
+
+1697371172 /home/hudakmariann/BME/CPP11/NHF1/String_NHF/mystring.h
+
+1697371469 source:/home/hudakmariann/BME/CPP11/NHF1/String_NHF/mystring.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	"mystring.h"
+
